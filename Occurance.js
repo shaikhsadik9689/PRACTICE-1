@@ -91,10 +91,10 @@
 
 // Index same in line and change line ******
 
-const array1=["A","B","C"]
-const array2=["X","Y","Z"]
-array1.splice(2,0,...array2)
-console.log(array1)
+// const array1=["A","B","C"]
+// const array2=["X","Y","Z"]
+// array1.splice(2,0,...array2)
+// console.log(array1)
 
 //  O/P=["A","B","X","Y","Z","C" ]
 
@@ -114,4 +114,6 @@ console.log(array1)
 // }
 // // console.log(newarray)
 
-// newarray=( [ 'tamsa', 'pasha', 'aqib' ])
+// newarray=( [ 'tamsa', 'pasha', 'aqib' ]);
+
+const a = "Sadik";
