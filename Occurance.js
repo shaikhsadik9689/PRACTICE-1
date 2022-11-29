@@ -116,4 +116,4 @@
 
 // newarray=( [ 'tamsa', 'pasha', 'aqib' ]);
 
-const a = "Sadik";
+const a = "Sadiks";
